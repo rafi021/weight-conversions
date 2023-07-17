@@ -18,8 +18,7 @@ composer require rafi021/weight-conversions
 ## Usage
 
 ```php
-$skeleton = new Rafi021\WeightConversions();
-echo $skeleton->echoPhrase('Hello, Rafi021!');
+echo WeightConversionsClass::kilograms(100)->toPounds();;
 ```
 
 ## Testing
