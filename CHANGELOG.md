@@ -2,6 +2,10 @@
 
 All notable changes to `weight-conversions` will be documented in this file.
 
+## 1.2.0 - 2023-07-17
+
+- Added toStones
+
 ## 1.0.1 - 2023-07-17
 
 - Added PEST test support and update usage
